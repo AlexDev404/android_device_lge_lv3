@@ -1,12 +1,10 @@
-# android_device_lge_lv3
-device tree for the LG MS210 aka Aristo or LV3 for building TWRP in Lineage OS 13
-# Device Tree for OnePlus One (bacon)
+# Device Tree for LG Aristo (lv3)
 
 Copyright 2014-2016, The CyanogenMod Project
 Copyright 2017-2018, The LineageOS Project
 
-The OnePlus One (codenamed _"bacon"_) is a flagship smartphone from OnePlus.
-It was released in June 2014.
+This is the device tree or configuration for the LG MS210 aka Aristo or LV3
+It was released in by LG Electronics in January 2017.
 
 | Basic                   | Spec Sheet                                             |
 |------------------------:|:-------------------------------------------------------|
