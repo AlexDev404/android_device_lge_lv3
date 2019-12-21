@@ -37,5 +37,5 @@ DEVICE_PACKAGE_OVERLAYS += $(LOCAL_PATH)/overlay
 PRODUCT_GMS_CLIENTID_BASE := android-lge
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    BUILD_FINGERPRINT="MetroPCS/lv3_mpcs_us/lv3:6.0.1/MXB48T/170120946dc98:user/release-keys" \
-    PRIVATE_BUILD_DESC="lv3_mpcs_us-user 6.0.1 MXB48T 170120946dc98 release-keys"
+    BUILD_FINGERPRINT="lge/lv3_tmo_us/lv3:7.0/NRD90U/163521941dae0:user/release-keys" \
+    PRIVATE_BUILD_DESC="lv3_tmo_us-user 7.0 NRD90U 163521941dae0 release-keys"
