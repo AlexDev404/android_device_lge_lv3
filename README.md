@@ -12,7 +12,7 @@ This is the device tree or configuration for the LG MS210 aka Aristo or LV3
 | Storage                 | 16 GB                                                  |
 | Battery                 | Removable Li-Ion 2410 mAh                              |
 | Dimensions              | 152.9 x 75.9 x 8.9 mm                                  |
-| Display                 | 5 Inch, HD IPS, 720 x 1280 pixel (~294 ppi density) dsgsfdgsfgsgdfsgdsgds   |
+| Display                 | 5 Inch, HD IPS, 720 x 1280 pixel (~294 ppi density)    |
 | Rear camera             | 13 MP, LED Flash                                       |
 | Front camera            | 5 MP                                                   |
 | Stock Android Version   | 7.0                                                    |
