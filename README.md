@@ -1,7 +1,7 @@
 # Device Tree for LG Aristo (lv3)
 
 This is the device tree or configuration for the LG MS210 aka Aristo or LV3
-It was released in by LG Electronics in January 2017.
+<br>It was released in by LG Electronics in January 2017.
 
 | Basic                   | Spec Sheet                                             |
 |------------------------:|:-------------------------------------------------------|
