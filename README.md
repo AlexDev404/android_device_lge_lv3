@@ -8,14 +8,14 @@ This is the device tree or configuration for the LG MS210 aka Aristo or LV3
 | Chipset                 | Qualcomm MSM8974AC Snapdragon 801                      |
 | CPU                     | Quad-core 2.5 GHz Krait 400                            |
 | GPU                     | Adreno 330                                             |
-| RAM                     | 3 GB                                                   |
-| Storage                 | 16/64 GB                                               |
-| Battery                 | Non-removable Li-Po 3100 mAh                           |
+| RAM                     | 1.5 GB                                                   |
+| Storage                 | 16 GB                                               |
+| Battery                 | Removable Li-Ion 2410 mAh                           |
 | Dimensions              | 152.9 x 75.9 x 8.9 mm                                  |
 | Display                 | IPS, 1080 x 1920 pixels, 5.5 inches (~401 ppi density) |
-| Rear camera             | 13 MP (f/2.0, 1/3", 1.12µm, AF), Dual LED flash        |
-| Front camera            | 5 MP (f/2.0), No flash                                 |
-| Shipped Android Version | 4.4.2                                                  |
+| Rear camera             | 13 MP        |
+| Front camera            | 5 MP                                 |
+| Shipped Android Version | 7.0                                                  |
 
 <img src="https://fdn.gsmarena.com/imgroot/news/17/01/lg-aristo/-728/gsmarena_002.jpg">
 
