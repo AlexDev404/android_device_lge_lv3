@@ -1,8 +1,5 @@
 # Device Tree for LG Aristo (lv3)
 
-Copyright 2014-2016, The CyanogenMod Project
-Copyright 2017-2018, The LineageOS Project
-
 This is the device tree or configuration for the LG MS210 aka Aristo or LV3
 It was released in by LG Electronics in January 2017.
 
