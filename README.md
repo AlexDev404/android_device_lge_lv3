@@ -17,5 +17,5 @@ This is the device tree or configuration for the LG MS210 aka Aristo or LV3
 | Front camera            | 5 MP (f/2.0), No flash                                 |
 | Shipped Android Version | 4.4.2                                                  |
 
-<img src="https://www.lg.com/us/images/cell-phones/md05795769/gallery/medium01.jpg">
+<img src="https://www.lg.com/us/images/cell-phones/md05795769/gallery/medium01.jpg width=40%">
 
