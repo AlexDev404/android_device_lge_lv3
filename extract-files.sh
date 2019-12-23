@@ -18,8 +18,8 @@
 
 set -e
 
-DEVICE=**** FILL IN DEVICE NAME ****
-VENDOR=*** FILL IN VENDOR ****
+DEVICE=lv3
+VENDOR=lge
 
 # Load extract_utils and do some sanity checks
 MY_DIR="${BASH_SOURCE%/*}"
@@ -59,5 +59,6 @@ fi
 setup_vendor "$DEVICE" "$VENDOR" "$LINEAGE_ROOT" false "$CLEAN_VENDOR"
 
 extract "$MY_DIR"/proprietary-files.txt "$SRC" "$SECTION"
+extract "$MY_DIR"/proprietary-files-qc.txt "$SRC" "$SECTION"
 
 "$MY_DIR"/setup-makefiles.sh
