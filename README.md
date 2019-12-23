@@ -17,6 +17,6 @@ This is the device tree for the LG M210 aka Aristo or LV3
 | Rear camera             | 13 MP, LED Flash                                       |
 | Front camera            | 5 MP                                                   |
 | Stock OS                | Android 7.0                                            |
-
+<br>
 <img src="https://images-na.ssl-images-amazon.com/images/I/71TzxEG-zrL._AC_SX679_.jpg" width="58%">
 
